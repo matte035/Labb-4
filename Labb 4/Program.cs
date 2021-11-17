@@ -3,6 +3,8 @@ using System.Collections.Generic;
 
 namespace Labb_4
 {
+
+    // Mattias Kleman SUT21
     class Program
     {
         static void Main(string[] args)
@@ -126,7 +128,7 @@ namespace Labb_4
                 Console.WriteLine("Item finns inte i stacken");
             }
 
-            //List
+            //Del 2 List
 
             List<Employee> EmpList = new List<Employee>();
             
